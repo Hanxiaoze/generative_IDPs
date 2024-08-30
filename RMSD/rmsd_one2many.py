@@ -4,7 +4,7 @@ new='polyq_new_200_neurons.pdb'
 
 import sys, os
 import shutil
-from copy import deepcopy
+from copy import deepcop
 import biobox as bb
 import numpy as np
 import heapq
